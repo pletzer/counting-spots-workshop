@@ -1,1 +1,1 @@
-# counting-spots-workshop
+# Counting Spots Workshop
